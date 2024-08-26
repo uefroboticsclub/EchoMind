@@ -1,4 +1,4 @@
-# EchoMind: Crafting a Relentless AI Partner 🤔
+# EchoMind: Crafting a Relentless AI buddy 🤔
 
 EchoMind is our totally-not-creepy conceptual attempt to create an AI that follows you around all day exploring the potential future of wearable AI tech.
 
